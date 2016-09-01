@@ -1,7 +1,7 @@
 function Formulario1(){
 
            var fst=$("#isFormulario").serialize();
-           alert(fst)
+         
            $.ajax({
                     data:  fst,
                     url:   'Login_Controller/hola',
