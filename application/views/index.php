@@ -17,6 +17,7 @@
 	<title>SIPRAC</title>
 </head>
 <body>
+	<h1>Hola</h1>
 	
 	<?php $this -> load -> view('core/modals') ?>
 	
