@@ -1,0 +1,38 @@
+header{
+	position: relative;
+	top: 0;
+	height: 5em;
+	width: 100%;
+	background-color: #112D38;
+	color: white;
+}
+
+#navbar > ul > li > a{
+  color: white;
+}
+
+#navbar > ul > li > a:hover{
+  color: black;
+}
+
+#navbar > ul > li:hover{
+  background-color: white;
+}
+
+.LS{
+	padding-top:8px; 
+}
+
+.paddingTitle{
+  padding-top: 14px;
+  font-size: 2em;
+}
+
+#menu{
+	display: block;
+}
+
+#esptop{
+margin-top: 2em;
+margin-bottom: 2em;
+}

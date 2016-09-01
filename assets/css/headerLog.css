@@ -1,0 +1,29 @@
+#menu{
+	position: absolute;
+	right: 0em;
+	top:5em;
+	background-color: #112D38;
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+	margin: 0;
+	padding: 0px 0em;
+	width: 20em;
+	z-index: 10;
+}
+
+#menu > li:hover{
+	background-color: white;
+	color: #112D38;
+	width: 20em;
+}
+
+.myback{
+	background-color: #7887AB;
+	padding: 0.5em 0em;
+	text-align: center;
+}
+
+a:hover{
+	text-decoration: none;
+}

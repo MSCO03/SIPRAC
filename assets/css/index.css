@@ -1,0 +1,148 @@
+body {
+  padding-top: 0px;
+  padding-left: 0px;
+}
+
+.myBlue{
+  background-color: #009EDF;
+}
+
+.myBlock{
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.fondo{
+  background-image: url('../img/nf.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.crpass{
+  margin-top: 4.5%;
+  font-size: 18px;
+  text-align: right;
+}
+.crpass a{
+  color: #c8c8c8;
+  text-decoration: none;
+  padding-right: 50px;
+}
+.crpass a:hover{
+  color: #ffffff;
+}
+
+.ch2{
+  color: black;/*#13629F*/
+}
+#spincont, #spininsc{
+    height: 30px;
+
+}
+.input_error{
+    background-color: red;
+    opacity: 0.5;
+    -webkit-transition: all 1s ease-out 0s;
+    -moz-transition: all 1s ease-out 0s;
+    -ms-transition: all 1s ease-out 0s;
+    -o-transition: all 1s ease-out 0s;
+    transition: all 1s ease-out 0s;
+}
+
+.input_error_out{
+  background-color: white;
+  opacity: 1;
+  -webkit-transition: all 1s ease-out 0s;
+  -moz-transition: all 1s ease-out 0s;
+  -ms-transition: all 1s ease-out 0s;
+  -o-transition: all 1s ease-out 0s;
+  transition: all 1s ease-out 0s;
+}
+
+.fondo{
+  background-image: url('../img/nf2.jpg');
+  background-position-y: 100%;
+  background-position-x: 95%;
+  background-repeat: no-repeat;
+}
+
+.message{
+  color: black;/*#13629F*/;
+}
+
+.spincontpos{
+  margin-top: 1.96em;
+  margin-bottom: -3em;
+}
+
+#tprincipal{
+  font-size: 1.8em;
+}
+
+#tam_nav{
+  height: 80px;
+}
+
+#csesion{
+  position: absolute;
+  top: 1em;
+  right: 2em;
+}
+
+
+#contp{
+  margin-top: 4em;
+}
+
+.row{
+    padding: 0 10px;
+    margin-top: 0;
+}
+
+.clickable{
+    cursor: pointer;   
+}
+
+.space{
+  margin-top: -20px;
+  font-size: 15px;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  -ms-transition: 0.2s;
+}
+
+.giro{
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+}
+
+.vanish{
+  display: none;
+}
+
+#pfis > .panel{
+  width: 40em;
+  margin-left: 95%;
+}
+
+.btn-label {
+  position: relative;
+    left: -12px;
+    display: inline-block;
+    padding: 3px 8px;
+    background: rgba(0,0,0,0.15);
+    border-radius: 3px 0 0 3px;
+}
+.btn-labeled {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.last{
+  position: relative;
+  left: -15px;
+  margin-right: 10px;
+}

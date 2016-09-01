@@ -1,0 +1,52 @@
+.formato > span{
+	display: inline-block;
+	-moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     color: white;
+     margin: 7px 20px;
+     padding-left: 10px;
+     padding-top: 10px;
+     background-color: black;
+     font-size: 20px;
+	width: 40px;
+     height: 40px;
+}
+
+.formato{
+	text-decoration: none;
+	margin-top: 15px;
+}
+
+footer{
+	position: relative;
+	bottom: 0;
+	background-color: #112D38;
+	height: 6em;
+	width: 100%;
+	margin-bottom: 0;
+}
+
+.ourText{
+	color: white;
+	padding: 34px 24px 0px 24px;
+}
+
+.ourFacebook:hover{
+	background-color: #4b66a0;
+	padding-left: 10px;
+     padding-top: 10px;
+	text-decoration: none;
+}
+
+.ourTwitter:hover{
+	background-color: #1da1f2;
+	padding-left: 10px;
+     padding-top: 10px;
+}
+
+.ourYoutube:hover{
+	background-color: red;
+	padding-left: 10px;
+     padding-top: 10px;
+}
